@@ -1,5 +1,8 @@
 # Chicken-Disease-Identification-Project
 
+## Project Description
+
+The Chicken Disease Identification Project is an end-to-end deep learning solution designed to automatically identify and classify common chicken diseases from images. Using Convolutional Neural Networks (CNNs), this system helps poultry farmers and veterinarians quickly diagnose diseases, enabling early intervention and reducing mortality rates.
 
 ## Workflows
 
@@ -156,3 +159,4 @@ docker push chickenapp.azurecr.io/chicken:latest
 2. Push the Docker image to Container Registry
 3. Launch the Web App Server in Azure 
 4. Pull the Docker image from the container registry to Web App server and run 
+
